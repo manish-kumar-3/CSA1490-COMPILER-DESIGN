@@ -1,0 +1,26 @@
+E       +       F
+        E       *       F
+        E       (       F
+        E       )       F
+        E       i       F
+        E       $       F
+        F       +       F
+        F       *       F
+        F       (       F
+        F       )       F
+        F       i       F
+        F       $       F
+        T       +       F
+        T       *       F
+        T       (       F
+        T       )       F
+        T       i       F
+        T       $       F
+
+
+        E ->
+        F ->
+        T ->
+--------------------------------
+Process exited after 0.0798 seconds with return value 0
+Press any key to continue . . .
